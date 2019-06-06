@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+ <script>
+     a(1, 2);
+function a(a, aa) {
+    console.log(arguments, "arguments1");
+    b()
+}
+function b(jQuery = window.jQuery) {
+    console.log(jQuery, "jQuery1");
+    if (!jQuery) {
+        console.log(jQuery, "jQuery2");
+        if (window.$ && window.$.fn && window.$.fn.jquery) {
+            console.log(jQuery, "jQuery3");
+            jQuery = window.$;
+            console.log(jQuery, "jQuery4");
+        }
+    }
+    console.log(arguments, "arguments2");
+//    jQuery.fn.on = function(eventString, fn) {
+//        console.log(arguments, "arguments3");
+//        return c.call(this, originalJQueryOn, window.addEventListener, eventString, fn, arguments);
+//    }
+    c()
+}
+function c(originalJQueryFunction, nativeFunctionToCall, eventString, fn, originalArgs) {
+    return Promise.resolve().then(console.log(arguments, "arguments4"));
+}
+ </script>
+</body>
+</html>

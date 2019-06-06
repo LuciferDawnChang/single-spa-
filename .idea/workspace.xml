@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6c86f31-6ab0-4f58-9f03-8220c88b0be2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/single-spa-.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/applications.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/migrating-existing-spas.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/parcel-api.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/parcels.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/root-application.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/separating-applications.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/single-spa-api.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/single-spa-config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/single-spa-ecosystem.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jest.config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rollup.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/app-names.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/check-activity-functions.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/error-handlers.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/event-listeners.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/first-mount.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/navigate-to-url.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/register-application.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apis/single-spa-events-api.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-rejects/bootstrap-rejects.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-rejects/bootstrap-rejects.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-times-out-dies/bootstrap-times-out-dies.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-times-out-dies/bootstrap-times-out-dies.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-times-out/bootstrap-times-out.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/bootstrap-times-out/bootstrap-times-out.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/empty-array-lifecycles/empty-array-lifecycles.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/empty-array-lifecycles/empty-array-lifecycles.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/happy-basic/happy-basic.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/happy-basic/happy-basic.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/happy-unload/happy-unload.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/happy-unload/happy-unload.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-bootstrap/invalid-bootstrap.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-bootstrap/invalid-bootstrap.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-load-function/invalid-load-function.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-mount/invalid-mount.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-mount/invalid-mount.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-bootstrap/invalid-no-bootstrap.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-bootstrap/invalid-no-bootstrap.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-mount/invalid-no-mount.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-mount/invalid-no-mount.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-unmount/invalid-no-unmount.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-no-unmount/invalid-no-unmount.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-unload/invalid-unload.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-unload/invalid-unload.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-unmount/invalid-unmount.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/invalid-unmount/invalid-unmount.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/lifecycle-props/lifecycle-props.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/lifecycle-props/lifecycle-props.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-fails/mount-fails.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-fails/mount-fails.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-rejects/mount-rejects.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-rejects/mount-rejects.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-times-out-dies/mount-times-out-dies.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-times-out-dies/mount-times-out-dies.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-times-out/mount-times-out.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/mount-times-out/mount-times-out.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/multiple-lifecycle-functions/multiple-lifecycle-functions.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/multiple-lifecycle-functions/multiple-lifecycle-functions.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/register-with-object/register-with-object.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/returns-non-native-promise/returns-non-native-promise.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/returns-non-native-promise/returns-non-native-promise.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-rejects/unmount-rejects.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-rejects/unmount-rejects.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-times-out-dies/unmount-times-out-dies.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-times-out-dies/unmount-times-out-dies.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-times-out/unmount-times-out.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/apps/unmount-times-out/unmount-times-out.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/parcels/app-mounts-parcel.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/parcels/mount-root-parcel.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/parcels/parcel-error-handlers.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/parcels/parcel-mounts-parcel.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/support/jasmine.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/app-errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/app.helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/apps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/applications/timeouts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/devtools/devtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery-support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/lifecycle.helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/mount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/prop.helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/unload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/unmount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lifecycles/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/navigation/navigation-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/navigation/reroute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/parcels/mount-parcel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/single-spa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/single-spa" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/single-spa-examples/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="51" />
+    <option name="y" value="67" />
+    <option name="width" value="1327" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="single-spa-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-spa-" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="single-spa-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-spa-" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="c:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c86f31-6ab0-4f58-9f03-8220c88b0be2" name="Default" comment="" />
+      <created>1559816672609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559816672609</updated>
+      <workItem from="1559816673733" duration="1125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1125000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="67" width="1327" height="839" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13188519" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.50423133" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47450426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.4957687" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.49717912" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
